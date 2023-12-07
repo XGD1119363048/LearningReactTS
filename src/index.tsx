@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import './01-ts基础/03-对象'
+import './01-ts基础/04-函数'
 
 ReactDOM.render(
   // <React.StrictMode>
